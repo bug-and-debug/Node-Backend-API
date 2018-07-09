@@ -1,0 +1,220 @@
+2018-07-09T06:29:31.146Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T06:29:31.709Z - info: [33mWorker #1 started[39m
+2018-07-09T06:29:32.825Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T06:31:50.286Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T06:31:50.836Z - info: [33mWorker #1 started[39m
+2018-07-09T06:31:51.053Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T06:32:38.928Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T06:32:39.484Z - info: [33mWorker #1 started[39m
+2018-07-09T06:32:39.701Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T06:34:10.351Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T06:34:10.904Z - info: [33mWorker #1 started[39m
+2018-07-09T06:34:11.123Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T06:34:33.771Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T06:34:34.323Z - info: [33mWorker #1 started[39m
+2018-07-09T06:34:34.543Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T06:35:08.933Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T06:35:09.498Z - info: [33mWorker #1 started[39m
+2018-07-09T06:35:09.718Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T06:35:21.986Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T06:35:22.562Z - info: [33mWorker #1 started[39m
+2018-07-09T06:35:22.793Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T06:35:59.666Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T06:36:00.244Z - info: [33mWorker #1 started[39m
+2018-07-09T06:36:00.470Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T06:43:12.065Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T06:43:12.629Z - info: [33mWorker #1 started[39m
+2018-07-09T06:43:12.846Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:00:54.563Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:00:55.121Z - info: [33mWorker #1 started[39m
+2018-07-09T07:00:55.340Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:01:58.244Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:01:58.805Z - info: [33mWorker #1 started[39m
+2018-07-09T07:01:59.019Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:02:12.007Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:02:12.563Z - info: [33mWorker #1 started[39m
+2018-07-09T07:02:12.780Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:02:34.264Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:02:34.827Z - info: [33mWorker #1 started[39m
+2018-07-09T07:02:35.050Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:02:54.348Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:02:54.905Z - info: [33mWorker #1 started[39m
+2018-07-09T07:02:55.124Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:05:08.872Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:05:09.415Z - info: [33mWorker #1 started[39m
+2018-07-09T07:05:09.629Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:05:11.412Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:05:11.977Z - info: [33mWorker #1 started[39m
+2018-07-09T07:05:12.202Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:06:42.677Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:06:43.241Z - info: [33mWorker #1 started[39m
+2018-07-09T07:06:43.463Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:07:15.420Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:07:15.974Z - info: [33mWorker #1 started[39m
+2018-07-09T07:07:16.194Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:08:15.457Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:08:16.011Z - info: [33mWorker #1 started[39m
+2018-07-09T07:08:16.228Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:08:35.233Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:08:35.782Z - info: [33mWorker #1 started[39m
+2018-07-09T07:08:36.002Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:09:37.342Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:09:37.900Z - info: [33mWorker #1 started[39m
+2018-07-09T07:09:38.139Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
+2018-07-09T07:10:17.040Z - info: [35mMaster cluster started, setting up 1 worker(s) ...[39m
+2018-07-09T07:10:17.596Z - info: [33mWorker #1 started[39m
+2018-07-09T07:10:17.829Z - info: [32m
+ ------------------------------------------------------
+ The server is running at http://127.0.0.1:3000/
+ Environment:		development
+ Port:			3000
+ Database:		mongodb://127.0.0.1:27017/bbali
+ ------------------------------------------------------
+[39m
